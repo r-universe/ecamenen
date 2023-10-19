@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GimmeMyPlot"]
+	path = GimmeMyPlot
+	url = https://github.com/cran/GimmeMyPlot
 [submodule "MainExistingDatasets"]
 	path = MainExistingDatasets
 	url = https://github.com/cran/MainExistingDatasets
