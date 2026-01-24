@@ -5,6 +5,9 @@
 [submodule "GimmeMyPlot"]
 	path = GimmeMyPlot
 	url = https://github.com/ecamenen/gimmemyplot
+[submodule "GimmeMyStats"]
+	path = GimmeMyStats
+	url = https://github.com/ecamenen/gimmemystats
 [submodule "MainExistingDatasets"]
 	path = MainExistingDatasets
 	url = https://github.com/cran/MainExistingDatasets
